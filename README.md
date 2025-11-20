@@ -1,2 +1,14 @@
 # Portfolio
-This project is intended to be a centralized location to find examples of my work.
+
+Hi! My name is Kelly Brown, and I am a software quality assurance engineer. Welcome to my portfolio! In this repository, you will find links to a variety of projects that showcase my skills and expertise.
+
+## Projects
+
+* [QA Documentation Templates](https://github.com/infinite-finite/QA-Documentation-Templates): This project includes templates and examples of various pieces of QA documentation, including but not limited to bug reports, traceability matrices, test cases and test plans.
+* [Polymer Shop Testing](https://github.com/infinite-finite/shop-polymer-project-qa): This project is for testing [Polymer Shop](https://shop.polymer-project.org/), an e-commerce test site. This project is still a work in progress, but it will contain examples of both manual and automated tests, test reports, and more.
+
+
+## 🚧 Project Under Construction 🚧
+
+I am still building out the projects that will make up my portfolio. Please excuse the appearance of this page as I continue to add new projects and update existing ones. Thanks!
+  
