@@ -8,7 +8,10 @@ I am still building out the projects that will make up my portfolio. Please excu
 
 ## Projects
 
-* [QA Documentation Templates](https://github.com/infinite-finite/QA-Documentation-Templates): This project includes templates and examples of various pieces of QA documentation, including but not limited to bug reports, traceability matrices, test cases and test plans.
+* [BMI Calculator](https://github.com/infinite-finite/BMI-Calculator): A pair of simple command-line BMI calculators, one for the metric system and one for the imperial system.
 * [Polymer Shop Testing](https://github.com/infinite-finite/shop-polymer-project-qa): This project is for testing [Polymer Shop](https://shop.polymer-project.org/), an e-commerce test site. This project is still a work in progress, but it will contain examples of both manual and automated tests, test reports, and more.
+* [QA Documentation Templates](https://github.com/infinite-finite/QA-Documentation-Templates): This project includes templates and examples of various pieces of QA documentation, including but not limited to bug reports, traceability matrices, test cases and test plans.
+* [Reading Tracker](https://github.com/infinite-finite/Reading-Tracker): The Reading Tracker is a SQL project that allows the user to track, rate, and review the books they've read. The information they provide can then be used to provide a summary of their reading habits.
+
 
   
