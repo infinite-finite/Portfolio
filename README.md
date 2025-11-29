@@ -10,7 +10,7 @@ Hi! My name is Kelly Brown, and I am a software quality assurance engineer. Welc
 
 ## Resume
 
-I have included a copy of [my resume]('./resume.md') in this repository, providing a detailed overview of my professional experience and skills.
+I have included a copy of [my resume]('https://github.com/infinite-finite/Portfolio/blob/main/resume.md') in this repository, providing a detailed overview of my professional experience and skills.
 
 ## Projects
 
