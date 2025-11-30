@@ -24,8 +24,7 @@ This project is for testing [Polymer Shop](https://shop.polymer-project.org/), a
 
 * test case design & management
 * traceability matrices
-* Python
-* Selenium
+* bug reporting
 
 **[QA Documentation Templates](https://github.com/infinite-finite/QA-Documentation-Templates)** - 
 This project includes templates and examples of various pieces of QA documentation.
