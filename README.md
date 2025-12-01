@@ -1,6 +1,4 @@
-# Portfolio
 
-Hi! My name is Kelly Brown, and I am a software quality assurance engineer. Welcome to my portfolio! In this repository, you will find links to a variety of projects that demonstrate my skills and expertise.
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -8,37 +6,40 @@ Hi! My name is Kelly Brown, and I am a software quality assurance engineer. Welc
   </a>
 </p>
 
+# Portfolio
+
+Hi! My name is Kelly Brown, and I am a software quality assurance engineer. Welcome to my portfolio! In this repository, you will find links to a variety of projects that demonstrate my skills and expertise.
+
 ## Resume
 
-I have included a copy of [my resume](https://github.com/infinite-finite/Portfolio/blob/main/resume.md) in this repository, providing a detailed overview of my professional experience and skills.
+There is a copy of [my resume](https://github.com/infinite-finite/Portfolio/blob/main/resume.md) in this repository, providing a detailed overview of my professional experience.
 
-## Projects
+# Projects
 
-**[BMI Calculator](https://github.com/infinite-finite/BMI-Calculator)** - 
-  A group of simple command-line BMI calculators (metric, imperial, and global, which has both metric and imperial options).
-  
-  * Python
+I have put together a list of some of my projects, organized loosely by project type. Please follow the links below to begin exploring the projects that interest you.
 
-**[Polymer Shop Testing](https://github.com/infinite-finite/shop-polymer-project-qa)** - 
+## Testing Projects
+
+* **[Polymer Shop Testing](https://github.com/infinite-finite/shop-polymer-project-qa)** - 
 This project is for testing [Polymer Shop](https://shop.polymer-project.org/), an e-commerce test site.
+This repository contains examples of test cases, test plans, and traceability matrices.
 
-* test case design & management
-* traceability matrices
-* bug reporting
-
-**[QA Documentation Templates](https://github.com/infinite-finite/QA-Documentation-Templates)** - 
+* **[QA Documentation Templates](https://github.com/infinite-finite/QA-Documentation-Templates)** - 
 This project includes templates and examples of various pieces of QA documentation.
 
-* QA documentation
-* test case design & management
-* defect management
+## SQL Projects
 
-**[Reading Tracker](https://github.com/infinite-finite/Reading-Tracker)** - 
-The Reading Tracker is a SQL project that allows the user to track, rate, and review the books they've read. The information they provide can then be used to provide a summary of their reading habits.
+* **[Reading Tracker](https://github.com/infinite-finite/Reading-Tracker)** - 
+The Reading Tracker is a SQL project that allows the user to track, rate, and review the books they've read, and the information they provide can then be used to provide a summary of their reading habits.
+This project demonstrates my mastery of SQL & database design, as well as Python scripting for generating test data.
 
-* database design
-* SQL
-* Python
+## Python Projects
+
+* **[BMI Calculator](https://github.com/infinite-finite/BMI-Calculator)** - 
+  A group of simple command-line BMI calculators (metric, imperial, and global, which has both metric and imperial options).
+
+
+
 
 #### 🚧 Portfolio Under Construction 🚧
 
