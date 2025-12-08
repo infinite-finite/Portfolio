@@ -20,6 +20,9 @@ I have put together a list of some of my projects, organized loosely by project 
 
 ## Testing Projects
 
+* **[Testing saucedemo.com](https://github.com/infinite-finite/testing-saucedemo.com)** -
+This repository contains a Python- and Selenium-based automated test suite for [saucedemo.com](https://www.saucedemo.com/), an ecommerce test site.
+
 * **[Polymer Shop Testing](https://github.com/infinite-finite/shop-polymer-project-qa)** - 
 This project is for testing [Polymer Shop](https://shop.polymer-project.org/), an e-commerce test site.
 This repository contains examples of test cases, test plans, and traceability matrices.
@@ -38,7 +41,13 @@ This project demonstrates my mastery of SQL & database design, as well as Python
 * **[BMI Calculator](https://github.com/infinite-finite/BMI-Calculator)** - 
   A group of simple command-line BMI calculators (metric, imperial, and global, which has both metric and imperial options).
 
+# Connect with me
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kelly-brown-qa">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 
 #### 🚧 Portfolio Under Construction 🚧
