@@ -22,7 +22,7 @@ I have put together a list of some of my projects, organized loosely by project 
 This repository contains a Python- and Selenium-based automated test suite for [saucedemo.com](https://www.saucedemo.com/), an ecommerce test site.
 
 * **[Polymer Shop Testing](https://github.com/infinite-finite/shop-polymer-project-qa)** - 
-This project is for testing [Polymer Shop](https://shop.polymer-project.org/), an e-commerce test site.
+This project is for testing [Polymer Shop](https://shop.polymer-project.org/), an ecommerce test site.
 This repository contains examples of test cases, test plans, and traceability matrices.
 
 * **[QA Documentation Templates](https://github.com/infinite-finite/QA-Documentation-Templates)** - 
