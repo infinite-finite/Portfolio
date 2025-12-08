@@ -38,7 +38,13 @@ This project demonstrates my mastery of SQL & database design, as well as Python
 * **[BMI Calculator](https://github.com/infinite-finite/BMI-Calculator)** - 
   A group of simple command-line BMI calculators (metric, imperial, and global, which has both metric and imperial options).
 
+# Connect with me
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kelly-brown-qa">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 
 #### 🚧 Portfolio Under Construction 🚧
