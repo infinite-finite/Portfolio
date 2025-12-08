@@ -1,12 +1,10 @@
-
+# Portfolio
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,py,pycharm,postman,selenium,graphql,html,css,js,figma,discord,notion" />
   </a>
 </p>
-
-# Portfolio
 
 Hi! My name is Kelly Brown, and I am a software quality assurance engineer. Welcome to my portfolio! In this repository, you will find links to a variety of projects that demonstrate my skills and expertise.
 
