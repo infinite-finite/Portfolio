@@ -4,7 +4,7 @@
 
 ## Professional Summary
 
-Detail-oriented quality assurance professional with 9+ years of software and QA experience driving quality throughout the SDLC and delivering SaaS products in an Agile startup environment. 
+Detail-oriented quality assurance professional with 9+ years of software and QA experience, driving quality throughout the SDLC and delivering SaaS products in an Agile startup environment. 
 Proven expertise in designing manual and automated test plans and test cases for complex product features, owning QA processes from planning through validation & maintenance, and advocating for quality across cross-functional teams. 
 Strong technical background, including 8+ years of SQL proficiency for data validation and 2+ years of PostgreSQL database management. 
 Specializes in creating comprehensive technical documentation, quality advocacy, and cross-functional collaboration.
