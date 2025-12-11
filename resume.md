@@ -1,6 +1,6 @@
 # Kelly Brown
 
-**Software Quality Assurance Engineer** | New Hampshire, USA | [kellybrown777@gmail.com](mailto:kellybrown777@gmail.com) | [LinkedIn](https://www.linkedin.com/kelly-brown-qa)
+**Software Quality Assurance Engineer** | New Hampshire, USA | [LinkedIn](https://www.linkedin.com/kelly-brown-qa)
 
 ## Professional Summary
 
