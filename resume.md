@@ -4,7 +4,7 @@
 
 ## Professional Summary
 
-Detail-oriented Software Quality Assurance Engineer with 9+ years of professional software and QA experience, including establishing QA disciplines from the ground up in a startup environment. 
+Detail-oriented quality assurance professional with 9+ years of software and QA experience driving quality throughout the SDLC and delivering SaaS products in an Agile startup environment. 
 Proven expertise in designing manual and automated test plans and test cases for complex product features, owning QA processes from planning through validation & maintenance, and advocating for quality across cross-functional teams. 
 Strong technical background, including 8+ years of SQL proficiency for data validation and 2+ years of PostgreSQL database management. 
 Specializes in creating comprehensive technical documentation, quality advocacy, and cross-functional collaboration.
@@ -25,13 +25,12 @@ Specializes in creating comprehensive technical documentation, quality advocacy,
 <br>
 *B2B Computer and Electronics Component Sourcing*
 
-* Established QA department from the ground up as the company's first dedicated QA professional for their new B2B ecommerce platform, owning QA for assigned features and releases from planning through validation while advocating for quality across teams
-* Designed and maintained comprehensive test suite covering functional, regression, and exploratory testing, validating resolved issues met acceptance criteria and customer expectations
+* Established QA department from the ground up as the company's first dedicated QA professional for their new B2B ecommerce platform, owning QA for assigned features and releases from planning through validation while advocating for quality across teams throughout the SDLC
+* Designed and maintained comprehensive test suite covering functional, regression, and exploratory testing, validating resolved issues met acceptance criteria and customer expectations, and documenting defects in clear, actionable bug reports with detailed steps, evidence, and risk assessment
 * Partnered closely with Product Managers and Business Analysts to refine acceptance criteria and ensure testability, proactively identifying gaps in test coverage and proposing improvements that reduced production defects by 40%
 * Created scalable QA processes and standards to support team growth, acting as the QA voice in sprint planning, backlog grooming, and release readiness discussions while mentoring junior team members
-* Wrote clear, actionable bug reports with detailed steps, evidence, and risk assessment, collaborating with Engineers to find solutions
-* Assisted with the creation and implementation of a Python- and Selenium-based automated test suite, verifying automated tests aligned with functional requirements and identifying error-prone and high-risk functionality ideal for automation
-* Led User Acceptance Testing coordination across multiple stakeholder groups, ensuring seamless product releases
+* Contributed to the creation and implementation of a Python- and Selenium-based automated test suite that reduced the manual testing load by 35%, verifying automated tests aligned with functional requirements and identifying error-prone and high-risk functionality ideal for automation 
+* Guided User Acceptance Testing coordination across multiple stakeholder groups, ensuring seamless product releases
 
 ### Quality Assurance Analyst
 
@@ -39,9 +38,9 @@ Specializes in creating comprehensive technical documentation, quality advocacy,
 <br>
 *Automotive OEM and Dealership Inventory Management Software*
 
-* Co-established QA discipline for rapidly growing B2B SaaS platform, advocating for product quality and the customer experience across all aspects of product delivery
-* Owned QA validation for 5 complex product features, executing comprehensive test plans covering functional and regression testing while partnering with Product Managers to ensure acceptance criteria alignment
-* Collaborated extensively with Engineers, Product, and Support teams in agile workflows using ADO, contributing to sprint planning and backlog grooming while ensuring release readiness validation
+* Co-established standards in QA discipline for rapidly growing B2B SaaS platform, advocating for product quality and the customer experience across all aspects of product delivery
+* Owned QA validation for 5 complex products, executing comprehensive test plans covering functional and regression testing while partnering with Product Managers to ensure acceptance criteria alignment
+* Collaborated extensively with Engineers, Product, and Support teams in agile workflows using Azure DevOps, contributing to sprint planning and backlog grooming while ensuring release readiness validation
 * Coordinated software deployment pipeline between testing and production environments, ensuring smooth release cycles
 * Performed extensive data validation testing using complex SQL queries across multiple systems and databases, ensuring accurate content delivery and optimal user experience
 * Mentored junior team members on testing best practices and quality standards, contributing to scalable QA processes that supported rapid feature delivery and customer satisfaction objectives
